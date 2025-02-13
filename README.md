@@ -15,7 +15,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/real-time-traffic-load-prediction.git
+git clone https://github.com/Deepakkambati/Final-Year-Project.git
 cd real-time-traffic-load-prediction
 Install Dependencies:
 bash
@@ -34,6 +34,6 @@ We love collaboration! Feel free to open issues or submit pull requests.
 This project is licensed under the MIT License.
 
 📧 Contact
-Have questions or ideas? Reach out at your-email@example.com.
+Have questions or ideas? Reach out at deepakkambati@example.com.
 
 🚀 Unlock the future of cellular networks with real-time traffic predictions
